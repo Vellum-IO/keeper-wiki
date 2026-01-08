@@ -7,11 +7,11 @@ hero:
   tagline: Organizational standards, research notes and documentation
   actions:
     - theme: brand
-      text: Browse Documentation
-      link: /keeper/architecture
-    # - theme: alt
-    #   text: View Research
-    #   link: /identity-provider
+      text: Keeper Documentation
+      link: /keeper/introduction
+    - theme: alt
+      text: Research
+      link: /research/message-queue
 # features:
 #   - title: Organizational Standards
 #     details: Guidelines and best practices we follow at Vellum IO
@@ -47,7 +47,8 @@ const members = [
 
 ## About This Wiki
 
-// TODO:
+This wiki includes a bit of research for the `keeper` project, along with documentation for architecture, setup etc. of the
+project and documentation on the kubernetes clusters.
 
 ## Team
 
