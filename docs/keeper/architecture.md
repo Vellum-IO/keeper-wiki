@@ -8,3 +8,5 @@ description: Architecture for Keeper
 ## Simplfied Architecture
 
 <img src="./arc.png" alt="Simplfied Architecture" style="border-radius:2%;">
+
+ef
