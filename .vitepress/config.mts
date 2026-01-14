@@ -24,6 +24,7 @@ export default defineConfig({
         items: [
           { text: "Introduction", link: "/keeper/introduction" },
           { text: "Architecture", link: "/keeper/architecture" },
+          { text: "Repositories", link: "/keeper/repositories" },
         ],
       },
       {
